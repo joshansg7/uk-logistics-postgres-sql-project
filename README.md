@@ -19,7 +19,6 @@ PostgreSQL
 **Key findings**
 • london South Depot depot generated highest profit
 • Longer journeys resulted in more late deliveries
-• Truck deliveries generated more profit
 
 
 All names, depots, customers and records are synthetic.
