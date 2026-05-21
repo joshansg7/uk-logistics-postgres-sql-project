@@ -17,8 +17,9 @@ PostgreSQL
 
 
 **Key findings**
-• london South Depot depot generated highest profit
-• Longer journeys resulted in more late deliveries
+1. london South Depot depot generated highest profit
+2. Longer journeys resulted in more late deliveries
+3. Priya Patel had the most shipments
 
 
 All names, depots, customers and records are synthetic.
