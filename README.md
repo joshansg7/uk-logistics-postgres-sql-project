@@ -14,7 +14,7 @@ PostgreSQL
 1. Which depots generate most profit?
 2. Are longer journeys linked to delivery failures?
 3. Which drivers rank highest?
-4. Which customer types perform best?
+
 
 **Key findings**
 • london South Depot depot generated highest profit
