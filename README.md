@@ -16,6 +16,10 @@ PostgreSQL
 3. Which drivers rank highest?
 
 
+**Postgres Result Example Query**
+<img width="626" height="636" alt="image" src="https://github.com/user-attachments/assets/d447a8e0-c061-4e3a-a099-6c7917d54107" />
+
+
 **Key findings**
 1. london South Depot depot generated highest profit
 2. Longer journeys resulted in more late deliveries
