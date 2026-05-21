@@ -77,4 +77,22 @@ WITH customer_revenues AS (
 )
 
 SELECT * FROM customer_revenues WHERE revenue < previous_revenue
+
+
+//Adding shipment size column flag with CASE WHEN
+SELECT 
+	shipment_id,
+	package_weight_kg,
+CASE WHEN 
+	package_weight_kg < 100
+THEN
+	'Small'
+WHEN
+	package_weight_kg < 200
+THEN
+	'Medium'
+ELSE
+	'Large'
+END AS shipment_size
+FROM shipments;
 	
