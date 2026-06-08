@@ -29,7 +29,7 @@ PostgreSQL
 3. Priya Patel had the most shipments
 
 
-## All names, depots, customers and records are synthetic.
+All names, depots, customers and records are synthetic.
 
 ## Power BI Analysis Screenshots
 
