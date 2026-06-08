@@ -31,6 +31,14 @@ PostgreSQL
 
 All names, depots, customers and records are synthetic.
 
+## Python Analysis
+
+- Imported CSV exports from PostgreSQL using Pandas
+- Merged shipment, customer and depot datasets
+- Performed aggregation and grouping analysis
+- Created visualisations using Matplotlib
+- Answered business-focused logistics questions
+
 ## Power BI Analysis Screenshots
 
 <img width="1068" height="559" alt="image" src="https://github.com/user-attachments/assets/b5ae148e-1c43-4d8c-b517-d34665ff0bee" />
