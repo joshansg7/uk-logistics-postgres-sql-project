@@ -41,7 +41,7 @@ All names, depots, customers and records are synthetic.
 
 ## Power BI Analysis Screenshots
 
-<img width="1068" height="559" alt="image" src="https://github.com/user-attachments/assets/b5ae148e-1c43-4d8c-b517-d34665ff0bee" />
+<img width="1167" height="681" alt="image" src="https://github.com/user-attachments/assets/a6fa0e96-e59e-492c-852a-cd2f0f1ec0b7" />
 <img width="1044" height="545" alt="image" src="https://github.com/user-attachments/assets/ef0871e6-5483-4487-8a44-9384c631499c" />
 
 
